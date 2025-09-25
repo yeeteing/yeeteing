@@ -3,7 +3,7 @@
 
 ### ⚡ Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yeeteing&theme=github)
-![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeeteing&theme=tokyonight)
+![Metrics](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg)
 ![GitHub Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeeteing&theme=tokyonight)
 
 <!--
