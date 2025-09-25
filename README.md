@@ -43,6 +43,7 @@ Outside of work, you’ll usually find me weightlifting, dancing 💃, or creati
 
 ---
 
+
 📫 **Connect with me**  
 [![GitHub](https://img.shields.io/badge/GitHub-yeeteing-181717?style=flat-square&logo=github)](https://github.com/yeeteing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LoYeeTeing-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/loyeeteing)
