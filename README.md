@@ -4,6 +4,7 @@
 ### ⚡ Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yeeteing&theme=github)
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeeteing&theme=tokyonight)
+![GitHub Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeeteing&theme=tokyonight)
 
 <!--
 **yeeteing/yeeteing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
