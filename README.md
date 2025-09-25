@@ -5,39 +5,24 @@
 I love building **clean APIs**, **scalable systems**, and experimenting with **AI tools**.  
 Outside of work, you’ll usually find me weightlifting, dancing 💃, or creating something secretively 👀.  
 
----
 
-### 📊 GitHub Overview
+### 🌱 Tech that I’m learning recently
+- Scaling apps with **cloud services** (AWS)
+- Building **AI-powered projects** 
+- Designing **engaging UI/UX** with Figma
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeteing&layout=compact&langs_count=10&theme=tokyonight" height="160"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeeteing&theme=tokyonight" height="160"/>
 </p>
 
----
-
-### ⚡ Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeeteing&theme=tokyo-night" />
 </p>
 
----
 
 ### 💡 LeetCode Stats
 ![Metrics](./github-metrics.svg)
 
-___
-### 🌱 What I’m Learning
-- Scaling apps with **cloud services** (AWS)
-- Building **AI-powered projects** with FastAPI & LangChain
-- Designing **engaging UI/UX** with Figma
-
----
-
-### 💡 Fun Facts
-- 🌏 Grew up in Malaysia, now in Toronto 🇨🇦  
-- 🥇 Training for **Wellness Bodybuilding competition 2025**  
-
----
 
 
 📫 **Connect with me**  
