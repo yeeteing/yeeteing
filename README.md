@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=100&color=E0B1F7&background=2CC5FF00&multiline=true&random=true&width=459&height=100&lines=%F0%9F%91%8B+My+name+is+Yee+Teing++;but+I+go+by+Lola!+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=10&color=C5A2F7&vCenter=true&multiline=true&width=435&height=100&lines=%F0%9F%91%8B+My+name+is+Yee+Teing;but+I+got+by+Lola+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 💻 Full-stack Developer | 🚀 Exploring AI & Conversational Tech | 🎨 Creator
 
