@@ -36,7 +36,6 @@ ___
 ### 💡 Fun Facts
 - 🌏 Grew up in Malaysia, now in Toronto 🇨🇦  
 - 🥇 Training for **Wellness Bodybuilding competition 2025**  
-- 🎤 Love blending **tech, art, and storytelling** in everything I do  
 
 ---
 
