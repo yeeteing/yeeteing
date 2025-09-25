@@ -22,13 +22,6 @@ Outside of work, you’ll usually find me weightlifting, dancing 💃, or creati
 
 ---
 
-### 🧩 Developer Metrics
-<p align="center">
-  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" />
-</p>
-
----
-
 ### 💡 LeetCode Stats
 ![Metrics](./github-metrics.svg)
 
