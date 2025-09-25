@@ -29,8 +29,12 @@ Outside of work, you’ll usually find me weightlifting, dancing 💃, or creati
 
 ---
 
+### 💡 LeetCode Stats
+![Metrics](./github-metrics.svg)
+
+___
 ### 🌱 What I’m Learning
-- Scaling apps with **cloud services** (AWS, Azure)
+- Scaling apps with **cloud services** (AWS)
 - Building **AI-powered projects** with FastAPI & LangChain
 - Designing **engaging UI/UX** with Figma
 
@@ -47,4 +51,3 @@ Outside of work, you’ll usually find me weightlifting, dancing 💃, or creati
 📫 **Connect with me**  
 [![GitHub](https://img.shields.io/badge/GitHub-yeeteing-181717?style=flat-square&logo=github)](https://github.com/yeeteing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LoYeeTeing-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/loyeeteing)
-[![LeetCode](https://img.shields.io/badge/LeetCode-loyeeteing-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/loyeeteing/)
